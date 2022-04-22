@@ -1,7 +1,16 @@
-body{
+body {
     background-color: blueviolet;
+    margin: 0px;
+
+}
+
+.container {
+    width: 100vw;
+    height: 100vh;
+    
     display: flex;
-    display: center;
-    margin: 200px 600px;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center
     
 }
