@@ -42,8 +42,8 @@
    
    # Fotos 🎴
    <div style="display: inline_block" >
-   <img src="./img/readme.gif">
-   <img src="./img/img readme.JPG">
+   <img  src="./img/readme.gif">
+   <img width="650px"  src="./img/img readme.JPG">
    </div>
 
    # Autor 🙋‍♂️
