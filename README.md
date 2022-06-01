@@ -41,9 +41,11 @@
    
    
    # Fotos 🎴
-   
-   <img>
-   
+   <div style="display: inline_block" >
+   <img src="./img/readme.gif">
+   <img src="./img/img readme.JPG">
+   </div>
+
    # Autor 🙋‍♂️
    <p>Ola, meu nome e Joao. <br> Me siga no <a href="https://www.linkedin.com/in/joao-soares-339642215/" target="_blank">Linkedin</a> para ver mais sobre os projeos que posto.!</p>
    
