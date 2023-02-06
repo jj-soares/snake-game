@@ -44,8 +44,10 @@
    # Technologies 📰
    <h3 align="center">  Technologies used in the project 🙃 </h3>
 
+   <img src='./src/assets/computer1.gif' alt='gif-de-computador' align='right' width='20%'/>
+
 - [HTML](https://www.w3schools.com/html/)
- - [CSS](https://www.w3schools.com/css/)
+- [CSS](https://www.w3schools.com/css/)
 - [JavaScript](https://www.javascript.com/)
    
    
