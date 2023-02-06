@@ -23,7 +23,7 @@
 
 
    
- # On ✔
+ # Sobre 🗨
      
      
    <p> This is a project to recreate the snake game, where I'm styling it more
@@ -33,21 +33,26 @@
    
    
    
-   # Roadmap 🗺
+   # Roadmap ✔
    
    <p> I really missed the games that marked the 90s, when I decided
    making this application, even though it is simple and certainly too much fun and tests
    your skills! </p>
    
    
-   # Technologies 🚀
-   <h3 align="center"> Technologies used in the project </h3>
- - [HTML](https://www.w3schools.com/html/)
- - [CSS](https://www.w3schools.com/css/)
- - [JavaScript](https://www.javascript.com/)
+   # Tecnologias 📰
+   <h3 align="center"> Tecnolgias usadas no projeto </h3>
+  <p>HTML</p>
+  <p>CSS</p>
+  <p>Java Script</p>
    
    
-   # Author 🙋‍♂️
-  
-   <p> Hello, my name is João. <br> Follow me on <a href="https://www.linkedin.com/in/jo%C3%A3o-soares13/" target="_blank">Linkedin</a> to see more about the projects I post.!</p>
+   # Fotos 🎴
+   <div style="display: inline_block" >
+   <img src="./img/readme.gif">
+   <img src="./img/img readme.JPG">
+   </div>
 
+   # Autor 🙋‍♂️
+   <p>Ola, meu nome e Joao. <br> Me siga no <a href="https://www.linkedin.com/in/joao-soares-339642215/" target="_blank">Linkedin</a> para ver mais sobre os projeos que posto.!</p>
+   
