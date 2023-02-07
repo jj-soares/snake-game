@@ -14,13 +14,14 @@
    </div>
 
 <p align="center">   
-   <a href="#on">On</a> .
-   <a href="#roadmap">Roadmap</a> .
-   <a href="#technologies">Technologies</a> .
-   <a href="#photos">Photos</a> . 
-   <a href="#author">Author</a> 
+   <a href="#On">On</a> .
+   <a href="#Roadmap">Roadmap</a> .
+   <a href="#Technologies">Technologies</a> .
+   <a href="#Photos">Photos</a> . 
+   <a href="#Author">Author</a> 
    
  </p>
+
 
 
    
